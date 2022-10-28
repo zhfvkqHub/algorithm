@@ -1,4 +1,4 @@
-package main.java.solution;
+package main.java.baekjoon;
 
 // 프로그래머스2 땅따먹기
 public class Solution9 {

@@ -1,4 +1,4 @@
-package main.java.solution;
+package main.java.baekjoon;
 
 import java.io.IOException;
 import java.util.ArrayList;

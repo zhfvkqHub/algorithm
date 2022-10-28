@@ -1,4 +1,4 @@
-package main.java.solution;
+package main.java.baekjoon;
 
 public class Solution10 {
 
