@@ -1,6 +1,7 @@
 package main.java.programmers.lv2;
 
-// LV2 타겟 넘버
+// LV2 타겟 넘버 dfs
+// https://school.programmers.co.kr/learn/courses/30/lessons/43165
 public class Solution36 {
 
     public static void main(String[] args) {
