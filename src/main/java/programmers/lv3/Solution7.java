@@ -29,7 +29,10 @@ public class Solution7 {
 
     public char convertDir(int d) {
         char[] dirs = {'d', 'l', 'r', 'u'};
-        return dirs[d];
+        if (d >= 0 && d < dirs.length) {
+            return dirs[d];
+        }
+        return '0';
     }
 
     public String solution(int n, int m, int x, int y, int r, int c, int k) {
