@@ -10,7 +10,7 @@ import java.util.Set;
 /**
  * [Jabda]
  */
-class J20260317Java {
+class J20260317_1Java {
 
     public String[] solution(String[] records) {
         Set<String> set = new HashSet<>();
@@ -36,7 +36,7 @@ class J20260317Java {
     public static void main(String[] args) {
         // 하루가 끝난 뒤, 아직 회사 안에 남아 있는 직원 이름을 사전순으로 반환하세요.
 
-        J20260317Java solution = new J20260317Java();
+        J20260317_1Java solution = new J20260317_1Java();
         String[] records = {"kim IN", "lee IN", "kim OUT", "park IN", "lee OUT"};
         System.out.println(Arrays.toString(solution.solution(records))); // [park]
 
